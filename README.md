@@ -4,6 +4,8 @@ This is a simple todo app in React.js using the Material UI library. A mock data
 
 # How to run
 
-Run 'npm run server' to start the mock database.
+1. Run 'npm install'
 
-Run 'npm start' to start the development server
+2. Run 'npm run server' to start the mock database.
+
+3. Run 'npm start' to start the development server
