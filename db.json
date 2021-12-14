@@ -2,16 +2,16 @@
   "todos": [
     {
       "id": 1,
-      "text": "Short title nr 4",
-      "description": "Short description nr 4",
+      "text": "Milk",
+      "description": "Can be found in the 'dairy' aisle",
       "completed": false,
       "transitionIN": true
     },
     {
-      "text": "In hendrerit pharetra risus non viverra. Donec eu ipsum eu felis convallis placerat et et orci. Quisque sit amet porta ante, ac auctor velit. Curabitur vestibulum odio eros, et eleifend justo fermentum commodo. Sed vel feugiat nisi, non lobortis lorem. Vestibulum ac sapien viverra, blandit mauris at, rhoncus ipsum. Proin nisi turpis, ultricies at urna et, suscipit tincidunt nunc.",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque lobortis nunc, sit amet tristique nibh aliquam at. In gravida ligula mollis urna mollis cursus. Nunc ac libero vel diam porttitor pellentesque. Duis suscipit erat vitae consequat bibendum. Vivamus viverra, nulla sed finibus vulputate, ligula enim congue massa, ac consequat orci odio a erat. Aenean consequat a justo in euismod. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque molestie arcu eros. Nam lacinia ornare purus, ac dapibus velit aliquet ut. Quisque pharetra ut justo eu imperdiet. Nulla blandit, arcu et commodo tristique, eros felis mattis ligula, vel porta augue eros vitae purus. Etiam at ante ac magna ornare aliquet. Nullam vehicula, augue eget facilisis consequat, est ante finibus est, id pharetra purus nibh sit amet sem.",
+      "text": "Bread",
+      "description": "Buy the gluten free one",
       "transitionIN": true,
-      "completed": false,
+      "completed": true,
       "id": 2
     }
   ]
